@@ -515,7 +515,7 @@ img {
   display: inline-block;
   margin-left: 12px;
   line-height: 30px;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgb(255 255 255 / 86%);
 }
 
 .main-header .header-top .login-link {
@@ -4823,7 +4823,7 @@ img {
 }
 
 .shop-item .inner-box .lower-content h3 a:hover {
-  color: #ff611b;
+  color: #006838;
 }
 
 .shop-item .inner-box .lower-content .price {
@@ -4840,7 +4840,7 @@ img {
 
 .shop-item .inner-box .lower-content .price li.total-price {
   text-decoration: line-through;
-  color: #cacaca;
+  color: #b6b4b4;
 }
 
 .shop-item .inner-box .lower-content .rating {

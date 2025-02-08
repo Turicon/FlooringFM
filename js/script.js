@@ -85,7 +85,7 @@
                     items: 3
                 },
                 1200: {
-                    items: 3
+                    items: 4
                 },
                 1400: {
                     items: 4
